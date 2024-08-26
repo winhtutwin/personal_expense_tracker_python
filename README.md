@@ -23,6 +23,6 @@ This is a console-based Personal Expense Tracker application developed using Pyt
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/winhtutwin/pythondiploma_finalassignment.git
-cd pythondiploma_finalassignment
+git clone https://github.com/winhtutwin/personal_expense_tracker_python.git
+cd personal_expense_tracker_python
 personalexpensetracker.py
