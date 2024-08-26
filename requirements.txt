@@ -1,1 +1,21 @@
-use command "pip install pymongo"
+# Django
+Django>=4.2,<5.0
+
+# Additional libraries
+# psycopg2-binary is for PostgreSQL database; you can replace or remove it if using a different database
+psycopg2-binary>=2.9,<3.0
+
+# For working with forms and validation
+django-crispy-forms>=2.0,<3.0
+
+# For handling static files and additional assets
+django-compressor>=4.0,<5.0
+
+# Optional: For environment variable management
+python-decouple>=6.0,<7.0
+
+# Optional: For security and debugging
+django-debug-toolbar>=4.0,<5.0
+
+# Pymongo
+pymongo>=4.0,<5.0
